@@ -1,2 +1,3 @@
-# appdev-johnlouisse-zipagan
-My first GitHub repository for App Dev
+John louisse Zipagan
+BSIT BLK 3 - E
+Finish our Capstone
